@@ -1,4 +1,4 @@
-.. image:: https://github.com/BotMasterOfficial/logos/blob/master/ptbcontrib/png/ptbcontrib-logo-text_768.png?raw=true
+.. image:: https://img.shields.io/badge/ptbcontrib-yellow?&style=flat-square?&logo=replit
    :align: center
    :target: https://github.com/BotMasterOfficial/ptbcontrib
    :alt: ptbcontrib Logo
